@@ -22,11 +22,11 @@ It has been written **100% in C**. ❤️
 * [License](#license)
 
 ### Spread Some :heart:
-[![GitHub followers](https://img.shields.io/github/followers/aritraroy.svg?style=social&label=Follow)](https://github.com/ksatriow)  [![Linkedin](https://img.shields.io/twitter/follow/aritraroy.svg?style=social)](https://www.linkedin.com/in/kukuh-satrio-wibowo/) 
+[![GitHub followers](https://img.shields.io/github/followers/aritraroy.svg?style=social&label=Follow)](https://github.com/ksatriow)  [![Linkedin](https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true)](https://www.linkedin.com/in/kukuh-satrio-wibowo/) 
 
 # Resource
 
-This library is available in **jCenter** which is the default Maven repository used in Android Studio. You can also import this library from source as a module.
+This resources is all you need to implement this project
 
 ## Tools
 * [Arduino Nano](https://www.arduino.cc/en/pmwiki.php?n=Main/ArduinoBoardNano)
