@@ -22,7 +22,7 @@ It has been written **100% in C**. ❤️
 * [License](#license)
 
 ### Spread Some :heart:
-[![GitHub followers](https://img.shields.io/github/followers/aritraroy.svg?style=social&label=Follow)](https://github.com/ksatriow)  [![Linkedin](https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true)](https://www.linkedin.com/in/kukuh-satrio-wibowo/) 
+[![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ksatriow)  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kukuh-satrio-wibowo/) 
 
 # Resource
 
